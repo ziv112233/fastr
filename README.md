@@ -1,10 +1,11 @@
-# MB-FASTR.
+# Wanbo萬博-ℳaπBεтXNews
 
 
-Each player holds one end of the phone.
-You will see "Ready", then "Set", then "Tap"
-Whoever taps the screen first after "Tap" appears wins!
-But don't tap to early, or you will lose.
+Star information, mastered by one hand
+1, news list display 
+2, news details display 
+3, team list 
+4, my information page
 
 email:tac3z6@yeah.net
 
